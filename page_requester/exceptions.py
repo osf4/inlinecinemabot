@@ -1,0 +1,3 @@
+
+class HttpUnknownSchemeError(Exception):
+    pass
