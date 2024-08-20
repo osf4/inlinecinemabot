@@ -1,0 +1,2 @@
+# inlinecinemabot 
+**inlincinemabot** is a small Telegram bot that receives the list of movies in Bendery from [kino bendery](https://kino-bendery.info) and sends to Telegram by typing *@botcinembot* in chat or */movies* command
